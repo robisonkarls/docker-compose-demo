@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RTPtKk8usz8dBMfzfPe8jNtdltlSWCEyzGvboqzrNBLZbWh+TJLTH9jmIE27VJ4uB6TYb5ihib59TNp4UfHSA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\docker-compose-demo\\DockerComposeDemo\\DockerComposeDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\robis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\robis\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\robis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\robis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\robis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
